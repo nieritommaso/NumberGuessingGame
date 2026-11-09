@@ -1,0 +1,15 @@
+.backRosso{
+    background-color: red;
+}
+
+.backBianco{
+    background-color: white;
+}
+
+.backVerde{
+    background-color: greenyellow;
+}
+
+.backBodyGradient{
+    background: linear-gradient(to right, aqua, blue);
+}
